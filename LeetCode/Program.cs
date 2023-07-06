@@ -4,16 +4,13 @@
     {
         static void Main(string[] args)
         {
-            var solution = new _1773.Solution();
+            var solution = new _1389.Solution();
 
-            IList<IList<string>> items = new List<IList<string>>
-        {
-            new List<string> {"phone","blue","pixel"},
-            new List<string> {"computer","silver","lenovo"},
-            new List<string> { "phone", "gold", "iphone" }
-        };
+            int[] nums = { 0, 1, 2, 3, 4 };
+            int[] index = { 0, 1, 2, 2, 1 };
 
-            var result = solution.CountMatches(items, "color", "silver");
+
+            var result = solution.CreateTargetArray(nums,index);
 
             Console.WriteLine(result);
         }
