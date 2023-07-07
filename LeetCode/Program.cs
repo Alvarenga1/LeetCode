@@ -4,13 +4,10 @@
     {
         static void Main(string[] args)
         {
-            var solution = new _1389.Solution();
-
-            int[] nums = { 0, 1, 2, 3, 4 };
-            int[] index = { 0, 1, 2, 2, 1 };
+            var solution = new _1816.Solution();
 
 
-            var result = solution.CreateTargetArray(nums,index);
+            var result = solution.TruncateSentence("Hello how are you Contestant",4);
 
             Console.WriteLine(result);
         }
