@@ -4,12 +4,9 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        var solution = new _1662.Solution();
+        var solution = new _1108.Solution();
 
-        string[] word1 = { "a", "cb" };
-        string[] word2 = { "ab", "c" };
-
-        var result = solution.ArrayStringsAreEqual(word1,word2);
+        var result = solution.DefangIPaddr("255.100.50.0");
 
         Console.WriteLine(result);
     }
