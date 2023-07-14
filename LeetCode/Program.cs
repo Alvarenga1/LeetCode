@@ -4,9 +4,9 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        var solution = new _1108.Solution();
+        var solution = new _2469.Solution();
 
-        var result = solution.DefangIPaddr("255.100.50.0");
+        var result = solution.ConvertTemperature(36.50);
 
         Console.WriteLine(result);
     }
