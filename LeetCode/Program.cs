@@ -4,9 +4,9 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        var solution = new _2469.Solution();
+        var solution = new _771.Solution();
 
-        var result = solution.ConvertTemperature(36.50);
+        var result = solution.NumJewelsInStones("aA", "aAAbbbb");
 
         Console.WriteLine(result);
     }
