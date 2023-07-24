@@ -13,12 +13,14 @@
     <ProjectReference Include="..\1389\1389.csproj" />
     <ProjectReference Include="..\1603\1603.csproj" />
     <ProjectReference Include="..\1662\1662.csproj" />
+    <ProjectReference Include="..\1678\1678.csproj" />
     <ProjectReference Include="..\1773\1773.csproj" />
     <ProjectReference Include="..\1816\1816.csproj" />
     <ProjectReference Include="..\2469\2469.csproj" />
     <ProjectReference Include="..\2652\2652.csproj" />
     <ProjectReference Include="..\771\771.csproj" />
     <ProjectReference Include="..\804\804.csproj" />
+    <ProjectReference Include="..\Solution\2413.csproj" />
   </ItemGroup>
 
 </Project>
