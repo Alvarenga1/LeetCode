@@ -4,9 +4,9 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        var solution = new _1281.Solution();
+        var solution = new _1221.Solution();
 
-        var result = solution.SubtractProductAndSum(245);
+        var result = solution.BalancedStringSplit("RLRRLLRLRL");
 
         Console.WriteLine(result);
     }
