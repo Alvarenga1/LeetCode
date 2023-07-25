@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\1108\1108.csproj" />
+    <ProjectReference Include="..\1281\1281.csproj" />
     <ProjectReference Include="..\1290\1290.csproj" />
     <ProjectReference Include="..\1389\1389.csproj" />
     <ProjectReference Include="..\1603\1603.csproj" />
@@ -17,6 +18,7 @@
     <ProjectReference Include="..\1773\1773.csproj" />
     <ProjectReference Include="..\1816\1816.csproj" />
     <ProjectReference Include="..\2469\2469.csproj" />
+    <ProjectReference Include="..\2574\2574.csproj" />
     <ProjectReference Include="..\2652\2652.csproj" />
     <ProjectReference Include="..\771\771.csproj" />
     <ProjectReference Include="..\804\804.csproj" />
